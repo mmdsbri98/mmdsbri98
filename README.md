@@ -1,5 +1,5 @@
 
-<img src="[https://github.com/username/repository/blob/main/assets/images/profile-picture.jpg](https://github.com/user-attachments/assets/54be7e7a-6e07-4bd0-8592-2ff2ad5394dd)" width="150" height="150" />
+<img src="https://github.com/user-attachments/assets/54be7e7a-6e07-4bd0-8592-2ff2ad5394dd" width="150" height="150" />
 
 ![photo_2024-09-12_19-47-40](https://github.com/user-attachments/assets/54be7e7a-6e07-4bd0-8592-2ff2ad5394dd)
 
