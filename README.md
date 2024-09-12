@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a master's student at Sharif University of Technology and a research assistant at the IPM Research Center. My research focuses on Software-Defined Networking (SDN) and computer networks. I also completed a 3-month internship at EURECOM Institute in France. On this page, I share code from my research papers, practice courses I've taken, and projects and code from those I design as a teaching assistant.
 <!--
 **mmdsbri98/mmdsbri98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
