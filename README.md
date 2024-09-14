@@ -4,7 +4,7 @@
 <div align="center">
     I'm 
      <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
-    iMan
+    Mohammad (MaMaD)
 </div>
 
 <div align="center">
