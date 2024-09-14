@@ -13,6 +13,50 @@
 
 ### Hi there 👋
 I am a master's student at Sharif University of Technology and a research assistant at the IPM Research Center. My research focuses on Software-Defined Networking (SDN) and computer networks. I also completed a 3-month internship at EURECOM Institute in France. On this page, I share code from my research papers, practice courses I've taken, and projects and code from those I design as a teaching assistant.
+
+### 💻 Skills
+
+- **General:** Optimization, Systems Biology, Parallel Processing, Data science
+- **Programming Languages:** Julia, Python, Java
+- **Framework:** JuMP, Convex, Spring
+- **Database:** Oracle, MySQL
+- **Familiar:** C, R, Matlab
+- **Tools:** Jupyter, LaTeX, Git, Trello
+
+<hr/>
+
+<img align="center" width="1000" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" alt="Coding">
+
+<hr/>
+
+### 📊 My Stats:
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iManGHD&show_icons=true&theme=react&background=0d1117&&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iManGHD&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iManGHD&theme=react&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&count_private=true"/>
+</p>
+
+
+
+<h2 align="center">🌐 Find me on</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/imanghadimi">
+    <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://github.com/iManGHD">
+    <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://www.instagram.com/iman_30a95">
+    <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
+  </a>
+  &nbsp&nbsp&nbsp&nbsp
+  <a href="https://twitter.com/iMan_30a95">
+    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
+  </a>
+</p>
 <!--
 **mmdsbri98/mmdsbri98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
