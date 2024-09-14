@@ -1,4 +1,9 @@
-
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=header&text=Hello&fontSize=32&animation=fadeIn&fontAlignY=30">
+    I'm 
+     <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
+    iMan
+</div>
 <img src="https://github.com/user-attachments/assets/54be7e7a-6e07-4bd0-8592-2ff2ad5394dd" width="350" height="350" />
 
 
