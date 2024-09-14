@@ -4,8 +4,9 @@
      <img src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_boy.gif" width="50">
     iMan
 </div>
+<center>
 <img src="https://github.com/user-attachments/assets/54be7e7a-6e07-4bd0-8592-2ff2ad5394dd" width="350" height="350" />
-
+</center>
 
 ### Hi there 👋
 I am a master's student at Sharif University of Technology and a research assistant at the IPM Research Center. My research focuses on Software-Defined Networking (SDN) and computer networks. I also completed a 3-month internship at EURECOM Institute in France. On this page, I share code from my research papers, practice courses I've taken, and projects and code from those I design as a teaching assistant.
