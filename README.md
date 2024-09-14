@@ -16,12 +16,8 @@ I am a master's student at Sharif University of Technology and a research assist
 
 ### 💻 Skills
 
-- **General:** Optimization, Systems Biology, Parallel Processing, Data science
-- **Programming Languages:** Julia, Python, Java
-- **Framework:** JuMP, Convex, Spring
-- **Database:** Oracle, MySQL
-- **Familiar:** C, R, Matlab
-- **Tools:** Jupyter, LaTeX, Git, Trello
+- **General:** Networking, Software Defined Network (SDN), Optimization, Performance Evaluation
+- **Programming Languages:** Python, p4
 
 <hr/>
 
@@ -44,6 +40,7 @@ I am a master's student at Sharif University of Technology and a research assist
 <p align="center">
   <a href="https://www.linkedin.com/in/mmdsbri98">
     <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
+  </a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/mmdsbri98">
     <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
